@@ -11,6 +11,15 @@ body {
   padding-right: 20px;
   padding-bottom: 40px;
 }
+
+a:hover,
+a:focus {
+  color: #b87a1d;
+}
+a {
+  text-decoration: none;
+}
+
 /*
 li {
   color: #e60b0b;
@@ -75,6 +84,16 @@ li {
   font-style: normal;
   letter-spacing: normal;
   line-height: 24px;
+}
+.linkedin {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  margin-right: 10px;
 }
 .contacts-link-type {
   font-size: 14px;
